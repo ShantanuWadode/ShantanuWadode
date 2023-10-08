@@ -21,7 +21,6 @@
 
 - 📫 How to reach me **shantanu.wadode21@vit.edu**
 
-- 📄 Know about my experiences [https://uploadnow.io/f/38p6Ysr](https://uploadnow.io/f/38p6Ysr)
 
 
 
