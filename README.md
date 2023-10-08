@@ -13,7 +13,7 @@
 # 💫 About Me:
 <p align="left"> <a href="https://twitter.com/shantanuwadode" target="blank"><img src="https://img.shields.io/twitter/follow/shantanuwadode?logo=twitter&style=for-the-badge" alt="shantanuwadode" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently Focusing on  **DSA**
 
 - 👨‍💻 All of my projects are available at [https://shantanuwadode.github.io/Portfolio-site/](https://shantanuwadode.github.io/Portfolio-site/)
 
